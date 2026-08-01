@@ -57,7 +57,8 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir
 
 <img
 height="180"
-src="https://github-stats-extended.vercel.app/api?username=BeatrizGomes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+src="https://github-stats-extended.vercel.app/api?username=BeatrizGomes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1"
+/>
 
 </td>
 
